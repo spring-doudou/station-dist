@@ -1,0 +1,70 @@
+{
+  "lines": [
+    {
+      "id": 14,
+      "name": "tttt",
+      "pointCount": 4,
+      "ctime": "2020-03-08",
+      "mtime": "2020-03-08"
+    },
+    {
+      "id": 15,
+      "name": "tttt",
+      "pointCount": 0,
+      "ctime": "2020-03-08",
+      "mtime": "2020-03-08"
+    }
+  ],
+  "points": {
+    "14": [
+      {
+        "id": 481,
+        "name": "2",
+        "type": 1,
+        "lineId": 14,
+        "latitude": 31.16225,
+        "longitude": 121.56872,
+        "ctime": 1583609236000,
+        "mtime": 1583609236000,
+        "isDeleted": 0,
+        "sortIndex": 0
+      },
+      {
+        "id": 483,
+        "name": "4",
+        "type": 3,
+        "lineId": 14,
+        "latitude": 31.20279,
+        "longitude": 121.67961,
+        "ctime": 1583609236000,
+        "mtime": 1583609236000,
+        "isDeleted": 0,
+        "sortIndex": 1
+      },
+      {
+        "id": 482,
+        "name": "1",
+        "type": 0,
+        "lineId": 14,
+        "latitude": 31.19765,
+        "longitude": 121.59996,
+        "ctime": 1583609236000,
+        "mtime": 1583609236000,
+        "isDeleted": 0,
+        "sortIndex": 2
+      },
+      {
+        "id": 484,
+        "name": "3",
+        "type": 2,
+        "lineId": 14,
+        "latitude": 31.21424,
+        "longitude": 121.54331,
+        "ctime": 1583609236000,
+        "mtime": 1583609236000,
+        "isDeleted": 0,
+        "sortIndex": 3
+      }
+    ]
+  }
+}
