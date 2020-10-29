@@ -219,116 +219,6 @@
      			]
      		},
      		"51":{
-     			"bindList":[
-     				[
-     					{
-     						"latitude":31.2846,
-     						"longitude":121.4355,
-     						"strokeStyle":"solid"
-     					},
-     					{
-     						"latitude":31.2851,
-     						"longitude":121.4353,
-     						"strokeStyle":"solid"
-     					}
-     				],
-     				[
-     					{
-     						"latitude":31.2851,
-     						"longitude":121.4353,
-     						"strokeStyle":"solid"
-     					},
-     					{
-     						"latitude":31.2855,
-     						"longitude":121.4352,
-     						"strokeStyle":"solid"
-     					}
-     				],
-     				[
-     					{
-     						"latitude":31.2855,
-     						"longitude":121.4352,
-     						"strokeStyle":"solid"
-     					},
-     					{
-     						"latitude":31.286,
-     						"longitude":121.435,
-     						"strokeStyle":"solid"
-     					}
-     				],
-     				[
-     					{
-     						"latitude":31.286,
-     						"longitude":121.435,
-     						"strokeStyle":"solid"
-     					},
-     					{
-     						"latitude":31.2866,
-     						"longitude":121.4347,
-     						"strokeStyle":"solid"
-     					}
-     				],
-     				[
-     					{
-     						"latitude":31.2866,
-     						"longitude":121.4347,
-     						"strokeStyle":"solid"
-     					},
-     					{
-     						"latitude":31.2872,
-     						"longitude":121.4346,
-     						"strokeStyle":"solid"
-     					}
-     				],
-     				[
-     					{
-     						"latitude":31.2872,
-     						"longitude":121.4346,
-     						"strokeStyle":"solid"
-     					},
-     					{
-     						"latitude":31.2876,
-     						"longitude":121.4346,
-     						"strokeStyle":"solid"
-     					}
-     				],
-     				[
-     					{
-     						"latitude":31.2876,
-     						"longitude":121.4346,
-     						"strokeStyle":"solid"
-     					},
-     					{
-     						"latitude":31.288,
-     						"longitude":121.4345,
-     						"strokeStyle":"solid"
-     					}
-     				],
-     				[
-     					{
-     						"latitude":31.288,
-     						"longitude":121.4345,
-     						"strokeStyle":"solid"
-     					},
-     					{
-     						"latitude":31.2886,
-     						"longitude":121.4345,
-     						"strokeStyle":"solid"
-     					}
-     				],
-     				[
-     					{
-     						"latitude":31.2886,
-     						"longitude":121.4345,
-     						"strokeStyle":"solid"
-     					},
-     					{
-     						"latitude":31.289,
-     						"longitude":121.4345,
-     						"strokeStyle":"solid"
-     					}
-     				]
-     			],
      			"pointPos":[
      				{
      					"id":1001,
@@ -463,215 +353,143 @@
      					"isDeleted":0,
      					"stationType":0
      				}
-     			]
-     		},
-     		"52":{
+     			],
      			"bindList":[
      				[
      					{
-     						"latitude":31.2997,
-     						"longitude":121.4078,
+     						"latitude":31.28462462,
+     						"longitude":121.4355026,
      						"strokeStyle":"solid"
      					},
      					{
-     						"latitude":31.2997,
-     						"longitude":121.4083,
+     						"latitude":31.28506742,
+     						"longitude":121.4353303,
      						"strokeStyle":"solid"
      					}
      				],
      				[
      					{
-     						"latitude":31.2997,
-     						"longitude":121.4083,
+     						"latitude":31.28506742,
+     						"longitude":121.4353303,
      						"strokeStyle":"solid"
      					},
      					{
-     						"latitude":31.2997,
-     						"longitude":121.4089,
+     						"latitude":31.28553099,
+     						"longitude":121.435157,
      						"strokeStyle":"solid"
      					}
      				],
      				[
      					{
-     						"latitude":31.2997,
-     						"longitude":121.4089,
+     						"latitude":31.28553099,
+     						"longitude":121.435157,
+     						"strokeStyle":"dash"
+     					},
+     					{
+     						"latitude":31.28597125,
+     						"longitude":121.4349918,
+     						"strokeStyle":"dash"
+     					}
+     				],
+     				[
+     					{
+     						"latitude":31.28597125,
+     						"longitude":121.4349918,
      						"strokeStyle":"solid"
      					},
      					{
-     						"latitude":31.2997,
-     						"longitude":121.4095,
+     						"latitude":31.28663087,
+     						"longitude":121.4347467,
      						"strokeStyle":"solid"
      					}
      				],
      				[
      					{
-     						"latitude":31.2997,
-     						"longitude":121.4095,
+     						"latitude":31.28663087,
+     						"longitude":121.4347467,
      						"strokeStyle":"solid"
      					},
      					{
-     						"latitude":31.2997,
-     						"longitude":121.4097,
+     						"latitude":31.28719563,
+     						"longitude":121.4346295,
      						"strokeStyle":"solid"
      					}
      				],
      				[
      					{
-     						"latitude":31.2997,
-     						"longitude":121.4097,
+     						"latitude":31.28719563,
+     						"longitude":121.4346295,
+     						"strokeStyle":"dash"
+     					},
+     					{
+     						"latitude":31.28757498,
+     						"longitude":121.4345739,
+     						"strokeStyle":"dash"
+     					}
+     				],
+     				[
+     					{
+     						"latitude":31.28757498,
+     						"longitude":121.4345739,
      						"strokeStyle":"solid"
      					},
      					{
-     						"latitude":31.2997,
-     						"longitude":121.4101,
+     						"latitude":31.28804651,
+     						"longitude":121.4345037,
      						"strokeStyle":"solid"
      					}
      				],
      				[
      					{
-     						"latitude":31.2997,
-     						"longitude":121.4101,
-     						"strokeStyle":"dashed"
-     					},
-     					{
-     						"latitude":31.2987,
-     						"longitude":121.4271,
-     						"strokeStyle":"dashed"
-     					}
-     				],
-     				[
-     					{
-     						"latitude":31.2987,
-     						"longitude":121.4271,
+     						"latitude":31.28804651,
+     						"longitude":121.4345037,
      						"strokeStyle":"solid"
      					},
      					{
-     						"latitude":31.2987,
-     						"longitude":121.4276,
+     						"latitude":31.28856603,
+     						"longitude":121.434529,
      						"strokeStyle":"solid"
      					}
      				],
      				[
      					{
-     						"latitude":31.2987,
-     						"longitude":121.4276,
+     						"latitude":31.28856603,
+     						"longitude":121.434529,
      						"strokeStyle":"solid"
      					},
      					{
-     						"latitude":31.2979,
-     						"longitude":121.4276,
+     						"latitude":31.28899947,
+     						"longitude":121.4345498,
      						"strokeStyle":"solid"
      					}
      				],
      				[
      					{
-     						"latitude":31.2979,
-     						"longitude":121.4276,
-     						"strokeStyle":"solid"
+     						"latitude":31.28462462,
+     						"longitude":121.4355026,
+     						"strokeStyle":"dash"
      					},
      					{
-     						"latitude":31.297,
-     						"longitude":121.4276,
-     						"strokeStyle":"solid"
+     						"latitude":31.28663087,
+     						"longitude":121.4347467,
+     						"strokeStyle":"dash"
      					}
      				],
      				[
      					{
-     						"latitude":31.297,
-     						"longitude":121.4276,
-     						"strokeStyle":"solid"
+     						"latitude":31.28553099,
+     						"longitude":121.435157,
+     						"strokeStyle":"dash"
      					},
      					{
-     						"latitude":31.2962,
-     						"longitude":121.4276,
-     						"strokeStyle":"solid"
-     					}
-     				],
-     				[
-     					{
-     						"latitude":31.2962,
-     						"longitude":121.4276,
-     						"strokeStyle":"solid"
-     					},
-     					{
-     						"latitude":31.2944,
-     						"longitude":121.4277,
-     						"strokeStyle":"solid"
-     					}
-     				],
-     				[
-     					{
-     						"latitude":31.2944,
-     						"longitude":121.4277,
-     						"strokeStyle":"solid"
-     					},
-     					{
-     						"latitude":31.2939,
-     						"longitude":121.4277,
-     						"strokeStyle":"solid"
-     					}
-     				],
-     				[
-     					{
-     						"latitude":31.2939,
-     						"longitude":121.4277,
-     						"strokeStyle":"solid"
-     					},
-     					{
-     						"latitude":31.2933,
-     						"longitude":121.4276,
-     						"strokeStyle":"solid"
-     					}
-     				],
-     				[
-     					{
-     						"latitude":31.2933,
-     						"longitude":121.4276,
-     						"strokeStyle":"solid"
-     					},
-     					{
-     						"latitude":31.2925,
-     						"longitude":121.4276,
-     						"strokeStyle":"solid"
-     					}
-     				],
-     				[
-     					{
-     						"latitude":31.2925,
-     						"longitude":121.4276,
-     						"strokeStyle":"solid"
-     					},
-     					{
-     						"latitude":31.2841,
-     						"longitude":121.4352,
-     						"strokeStyle":"solid"
-     					}
-     				],
-     				[
-     					{
-     						"latitude":31.2841,
-     						"longitude":121.4352,
-     						"strokeStyle":"solid"
-     					},
-     					{
-     						"latitude":31.2842,
-     						"longitude":121.436,
-     						"strokeStyle":"solid"
-     					}
-     				],
-     				[
-     					{
-     						"latitude":31.2842,
-     						"longitude":121.436,
-     						"strokeStyle":"solid"
-     					},
-     					{
-     						"latitude":31.2844,
-     						"longitude":121.4368,
-     						"strokeStyle":"solid"
+     						"latitude":31.28804651,
+     						"longitude":121.4345037,
+     						"strokeStyle":"dash"
      					}
      				]
-     			],
+     			]
+     		},
+     		"52":{
      			"pointPos":[
      				{
      					"id":1011,
@@ -902,10 +720,215 @@
      					"isDeleted":0,
      					"stationType":0
      				}
+     			],
+     			"bindList":[
+     				[
+     					{
+     						"latitude":31.29966246,
+     						"longitude":121.4077626,
+     						"strokeStyle":"solid"
+     					},
+     					{
+     						"latitude":31.29965281,
+     						"longitude":121.4082976,
+     						"strokeStyle":"solid"
+     					}
+     				],
+     				[
+     					{
+     						"latitude":31.29965281,
+     						"longitude":121.4082976,
+     						"strokeStyle":"solid"
+     					},
+     					{
+     						"latitude":31.29966441,
+     						"longitude":121.4088639,
+     						"strokeStyle":"solid"
+     					}
+     				],
+     				[
+     					{
+     						"latitude":31.29966441,
+     						"longitude":121.4088639,
+     						"strokeStyle":"solid"
+     					},
+     					{
+     						"latitude":31.2996674,
+     						"longitude":121.4094561,
+     						"strokeStyle":"solid"
+     					}
+     				],
+     				[
+     					{
+     						"latitude":31.2996674,
+     						"longitude":121.4094561,
+     						"strokeStyle":"solid"
+     					},
+     					{
+     						"latitude":31.29967396,
+     						"longitude":121.4096924,
+     						"strokeStyle":"solid"
+     					}
+     				],
+     				[
+     					{
+     						"latitude":31.29967396,
+     						"longitude":121.4096924,
+     						"strokeStyle":"solid"
+     					},
+     					{
+     						"latitude":31.29967442,
+     						"longitude":121.4100624,
+     						"strokeStyle":"solid"
+     					}
+     				],
+     				[
+     					{
+     						"latitude":31.29967442,
+     						"longitude":121.4100624,
+     						"strokeStyle":"dash"
+     					},
+     					{
+     						"latitude":31.29874025,
+     						"longitude":121.427057,
+     						"strokeStyle":"dash"
+     					}
+     				],
+     				[
+     					{
+     						"latitude":31.29874025,
+     						"longitude":121.427057,
+     						"strokeStyle":"solid"
+     					},
+     					{
+     						"latitude":31.2987251,
+     						"longitude":121.4275606,
+     						"strokeStyle":"solid"
+     					}
+     				],
+     				[
+     					{
+     						"latitude":31.2987251,
+     						"longitude":121.4275606,
+     						"strokeStyle":"solid"
+     					},
+     					{
+     						"latitude":31.29790324,
+     						"longitude":121.4275697,
+     						"strokeStyle":"solid"
+     					}
+     				],
+     				[
+     					{
+     						"latitude":31.29790324,
+     						"longitude":121.4275697,
+     						"strokeStyle":"solid"
+     					},
+     					{
+     						"latitude":31.296992,
+     						"longitude":121.4275845,
+     						"strokeStyle":"solid"
+     					}
+     				],
+     				[
+     					{
+     						"latitude":31.296992,
+     						"longitude":121.4275845,
+     						"strokeStyle":"solid"
+     					},
+     					{
+     						"latitude":31.29620846,
+     						"longitude":121.4276273,
+     						"strokeStyle":"solid"
+     					}
+     				],
+     				[
+     					{
+     						"latitude":31.29620846,
+     						"longitude":121.4276273,
+     						"strokeStyle":"solid"
+     					},
+     					{
+     						"latitude":31.29443787,
+     						"longitude":121.4276573,
+     						"strokeStyle":"solid"
+     					}
+     				],
+     				[
+     					{
+     						"latitude":31.29443787,
+     						"longitude":121.4276573,
+     						"strokeStyle":"solid"
+     					},
+     					{
+     						"latitude":31.29393238,
+     						"longitude":121.4276549,
+     						"strokeStyle":"solid"
+     					}
+     				],
+     				[
+     					{
+     						"latitude":31.29393238,
+     						"longitude":121.4276549,
+     						"strokeStyle":"solid"
+     					},
+     					{
+     						"latitude":31.29334465,
+     						"longitude":121.4276059,
+     						"strokeStyle":"solid"
+     					}
+     				],
+     				[
+     					{
+     						"latitude":31.29334465,
+     						"longitude":121.4276059,
+     						"strokeStyle":"solid"
+     					},
+     					{
+     						"latitude":31.2925343,
+     						"longitude":121.4276047,
+     						"strokeStyle":"solid"
+     					}
+     				],
+     				[
+     					{
+     						"latitude":31.2925343,
+     						"longitude":121.4276047,
+     						"strokeStyle":"solid"
+     					},
+     					{
+     						"latitude":31.28406344,
+     						"longitude":121.4352069,
+     						"strokeStyle":"solid"
+     					}
+     				],
+     				[
+     					{
+     						"latitude":31.28406344,
+     						"longitude":121.4352069,
+     						"strokeStyle":"solid"
+     					},
+     					{
+     						"latitude":31.2842125,
+     						"longitude":121.4360359,
+     						"strokeStyle":"solid"
+     					}
+     				],
+     				[
+     					{
+     						"latitude":31.2842125,
+     						"longitude":121.4360359,
+     						"strokeStyle":"solid"
+     					},
+     					{
+     						"latitude":31.28435342,
+     						"longitude":121.4368062,
+     						"strokeStyle":"solid"
+     					}
+     				]
      			]
      		},
      		"53":{
-     			"bindList":[],
      			"pointPos":[
      				{
      					"id":1029,
@@ -932,7 +955,8 @@
      					"isDeleted":0,
      					"stationType":0
      				}
-     			]
+     			],
+     			"bindList":[]
      		}
      	},
      	"lines":[
