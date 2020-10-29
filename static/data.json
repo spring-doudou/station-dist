@@ -383,12 +383,12 @@
      					{
      						"latitude":31.28553099,
      						"longitude":121.435157,
-     						"strokeStyle":"dash"
+     						"strokeStyle":"dashed"
      					},
      					{
      						"latitude":31.28597125,
      						"longitude":121.4349918,
-     						"strokeStyle":"dash"
+     						"strokeStyle":"dashed"
      					}
      				],
      				[
@@ -419,12 +419,12 @@
      					{
      						"latitude":31.28719563,
      						"longitude":121.4346295,
-     						"strokeStyle":"dash"
+     						"strokeStyle":"dashed"
      					},
      					{
      						"latitude":31.28757498,
      						"longitude":121.4345739,
-     						"strokeStyle":"dash"
+     						"strokeStyle":"dashed"
      					}
      				],
      				[
@@ -467,24 +467,24 @@
      					{
      						"latitude":31.28462462,
      						"longitude":121.4355026,
-     						"strokeStyle":"dash"
+     						"strokeStyle":"dashed"
      					},
      					{
      						"latitude":31.28663087,
      						"longitude":121.4347467,
-     						"strokeStyle":"dash"
+     						"strokeStyle":"dashed"
      					}
      				],
      				[
      					{
      						"latitude":31.28553099,
      						"longitude":121.435157,
-     						"strokeStyle":"dash"
+     						"strokeStyle":"dashed"
      					},
      					{
      						"latitude":31.28804651,
      						"longitude":121.4345037,
-     						"strokeStyle":"dash"
+     						"strokeStyle":"dashed"
      					}
      				]
      			]
