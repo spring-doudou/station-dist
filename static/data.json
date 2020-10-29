@@ -531,12 +531,12 @@
      					{
      						"latitude":31.2997,
      						"longitude":121.4101,
-     						"strokeStyle":"dash"
+     						"strokeStyle":"dashed"
      					},
      					{
      						"latitude":31.2987,
      						"longitude":121.4271,
-     						"strokeStyle":"dash"
+     						"strokeStyle":"dashed"
      					}
      				],
      				[
