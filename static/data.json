@@ -531,12 +531,12 @@
      					{
      						"latitude":31.2997,
      						"longitude":121.4101,
-     						"strokeStyle":"solid"
+     						"strokeStyle":"dash"
      					},
      					{
      						"latitude":31.2987,
      						"longitude":121.4271,
-     						"strokeStyle":"solid"
+     						"strokeStyle":"dash"
      					}
      				],
      				[
@@ -888,6 +888,36 @@
      					"mtime":1.603760859e+12,
      					"isDeleted":0,
      					"sortIndex":17
+     				}
+     			],
+     			"stationPos":[
+     				{
+     					"id":9,
+     					"name":"kkk",
+     					"address":"",
+     					"latitude":31.26627,
+     					"longitude":121.46776,
+     					"ctime":1.590735332e+12,
+     					"mtime":1.590735332e+12,
+     					"isDeleted":0,
+     					"stationType":0
+     				}
+     			]
+     		},
+     		"53":{
+     			"bindList":[],
+     			"pointPos":[
+     				{
+     					"id":1029,
+     					"name":"测试箱变2",
+     					"type":5,
+     					"lineId":53,
+     					"latitude":31.27859076,
+     					"longitude":121.4574785,
+     					"ctime":1.603760685e+12,
+     					"mtime":1.603760859e+12,
+     					"isDeleted":0,
+     					"sortIndex":0
      				}
      			],
      			"stationPos":[
@@ -1391,7 +1421,27 @@
      					"sortIndex":17
      				}
      			]
+     		},
+     		{
+     			"id":53,
+     			"name":"测试箱变2",
+     			"pointCount":1,
+     			"ctime":1.603760685e+12,
+     			"mtime":1.603760685e+12,
+     			"points":[
+     				{
+     					"id":1029,
+     					"name":"测试箱变2",
+     					"type":5,
+     					"lineId":53,
+     					"latitude":31.27859076,
+     					"longitude":121.4574785,
+     					"ctime":1.603760685e+12,
+     					"mtime":1.603760859e+12,
+     					"isDeleted":0,
+     					"sortIndex":0
+     				}
+     			]
      		}
      	]
      }
-     
